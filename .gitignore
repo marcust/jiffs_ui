@@ -1,0 +1,10 @@
+.classpath
+.project
+*~
+build
+.ant-targets-build.xml
+.fbprefs
+.settings
+eclipse-bin
+*.class
+bin/
